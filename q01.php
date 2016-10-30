@@ -1,6 +1,7 @@
 <?php 
 	
 //   Neticesi aşağıdakılar olan funksiya yazın
+//   Bir komment falan yaz )) nə verir baş, aşağıda ?) həm də repo adlarını də ciciş qoy ))
 
 	/*
 		ekranaYaz(); 								-->Boş
